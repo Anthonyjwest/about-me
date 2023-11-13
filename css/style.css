@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-size: 4vw;
+  color: blueviolet;
+}
+
+p {
+  font-size: 2vw;
+  color: black;
+}

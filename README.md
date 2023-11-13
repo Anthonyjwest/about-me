@@ -2,9 +2,9 @@
 
 ## About Me
 
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+A basic website to learn more about me!
 
-### Author: Student/Group Name
+### Author: Anthony
 
 ### Links and Resources
 
@@ -13,9 +13,8 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+![Lighthouse report](<Screenshot 2023-11-13 150626.png>)
 
 ### Reflections and Comments
 
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+* Good practice to get back into the ryhtym of writing longer code and fully grasping the practices of if else statments.
