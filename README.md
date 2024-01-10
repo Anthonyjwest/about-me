@@ -18,3 +18,4 @@ A basic website to learn more about me!
 ### Reflections and Comments
 
 * Good practice to get back into the ryhtym of writing longer code and fully grasping the practices of if else statments.
+* Added a fun guessing game that helped me practice structure and order.
