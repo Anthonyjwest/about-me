@@ -8,7 +8,7 @@ let rightanswer = 0;
 
 let questionOne = prompt('Was I born in New York?').toLowerCase();
 
-//console.log(questionOne);
+console.log(questionOne);
 
 if (questionOne === 'y' || questionOne === 'yes'){
   alert('You are correct!');
@@ -19,7 +19,7 @@ if (questionOne === 'y' || questionOne === 'yes'){
 
 let questionTwo = prompt('I have lived in New York for my whole life?').toLowerCase();
 
-//console.log(questionTwo);
+console.log(questionTwo);
 
 if (questionTwo === 'n' || questionTwo === 'no'){
   alert('You are correct!');
@@ -30,7 +30,7 @@ if (questionTwo === 'n' || questionTwo === 'no'){
 
 let questionThree = prompt('I was varsity in track my freshmen year of Highschool?').toLowerCase();
 
-//console.log(questionThree);
+console.log(questionThree);
 
 if (questionThree === 'y' || questionThree === 'yes'){
   alert('You are correct!');
@@ -41,7 +41,7 @@ if (questionThree === 'y' || questionThree === 'yes'){
 
 let questionFour = prompt('I am the only child in my family?').toLowerCase();
 
-//console.log(questionFour);
+console.log(questionFour);
 
 if (questionFour === 'n' || questionFour === 'no'){
   alert('You are correct!');
@@ -52,7 +52,7 @@ if (questionFour === 'n' || questionFour === 'no'){
 
 let questionFive = prompt('My favorite fast food chain is Burger King?').toLowerCase();
 
-//console.log(questionFive);
+console.log(questionFive);
 
 if (questionFive === 'y' || questionFive === 'yes'){
   alert('You are correct!');

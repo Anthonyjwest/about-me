@@ -13,7 +13,19 @@ p {
 }
 
 h2 {
-  font-size: 2vw;
-  color:darkgoldenrod;
+  font-size: 3vw;
+  color:rgb(255, 189, 24);
 }
 
+li {
+  font-size: large;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: disc;
+}
