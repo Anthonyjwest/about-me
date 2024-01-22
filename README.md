@@ -13,7 +13,7 @@ A basic website to learn more about me!
 
 ### Lighthouse Accessibility Report Score
 
-![Lighthouse report](<Screenshot 2023-11-13 150626.png>)
+![Lighthouse report](<![Alt text](<Screenshot 2024-01-15 153148.png>)>)
 
 ### Reflections and Comments
 
