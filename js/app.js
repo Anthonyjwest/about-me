@@ -6,17 +6,18 @@ alert(`Hey ${username} welcome to my site! Lets play a guessing game, answer wit
 
 let rightanswer = 0;
 
-let questionOne = prompt('Was I born in New York?').toLowerCase();
-
-console.log(questionOne);
-
-if (questionOne === 'y' || questionOne === 'yes'){
-  alert('You are correct!');
-  rightanswer += 1;
-} else if(questionOne === 'n' || questionOne === 'no'){
-  alert('That is incorrect, I was born in New York');
+function questionOne() {
+  let questionOne = prompt('Was I born in New York?').toLowerCase();
+  
+  console.log(questionOne);
+  
+  if (questionOne === 'y' || questionOne === 'yes'){
+    alert('You are correct!');
+    rightanswer += 1;
+  } else if(questionOne === 'n' || questionOne === 'no'){
+    alert('That is incorrect, I was born in New York');
+  }
 }
-
 let questionTwo = prompt('I have lived in New York for my whole life?').toLowerCase();
 
 console.log(questionTwo);
